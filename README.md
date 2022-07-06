@@ -1,16 +1,27 @@
-### Hi there 👋
+### 👋 Hey
 
-<!--
-**X-Gamer-Guide/X-Gamer-Guide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I program programs in my free time and am currently a student. I want to contribute to the open source world with my programs and services.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas I like
+
+- Back-End Development 💻
+
+- Automations & Bots 🤖
+
+- Cyber Security 🔒
+
+### Areas I don't like
+
+- Front-End Development 🎨
+
+- Game Development 🎮
+
+### Programming Languages
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Gamer-Guide&layout=compact "Most Used Languages")](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+
+---
+
+*Don’t hurry your code. Make sure it works well and is well designed. Don’t worry about timing.* ~ Linus Torvalds
