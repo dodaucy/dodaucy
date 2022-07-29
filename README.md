@@ -20,7 +20,7 @@ I program programs in my free time and am currently a student. I want to contrib
 
 ### Programming Languages
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Gamer-Guide&layout=compact "Most Used Languages")](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=X-Gamer-Guide&layout=compact&theme=dark&cache_seconds=7200 "Most Used Languages")](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
 ---
 
