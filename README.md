@@ -8,7 +8,9 @@ I program programs in my free time and am currently a student. I want to contrib
 
 - Back-End Development 💻
 
-- Automations & Bots 🤖
+- Automations ⚙️
+
+- Bots 🤖
 
 - Cyber Security 🔒
 
