@@ -22,7 +22,9 @@ I program programs in my free time and am currently a student. I want to contrib
 
 ### Programming Languages
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dodaucy&layout=compact&theme=dark&cache_seconds=7200 "Most Used Languages")](https://github.com/anuraghazra/github-readme-stats#top-languages-card)
+<!-- https://github.com/anuraghazra/github-readme-stats#top-languages-card <3 -->
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dodaucy&layout=compact&theme=dark&cache_seconds=7200 "Most Used Languages")](https://github.com/dodaucy?tab=repositories)
 
 ---
 
