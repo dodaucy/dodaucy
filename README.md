@@ -20,6 +20,8 @@ I program programs in my free time and am currently a student. I want to contrib
 
 - Game Development 🎮
 
+- Mobile Development 📱
+
 ### Programming Languages
 
 <!-- https://github.com/anuraghazra/github-readme-stats#top-languages-card <3 -->
